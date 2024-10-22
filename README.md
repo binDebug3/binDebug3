@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a virtual assistant I've named Lila for my personal computer<br>🌱 I’m currently learning about advanced algorithms for neural nets, dynamic models, and control theory<br>💬 Ask me about ACME!<br>⚡ Fun fact: I spent a year living in the middle of Mexico
+🔭 I’m currently working on a new type of neural network layer inspired by origami<br>🌱 I’m learning about advanced algorithms for neural nets, path/strategy planning, and robot localization<br>💬 Ask me about ACME!<br>⚡ Fun fact: I spent a year living in the middle of Mexico
 
 
 # 📊 GitHub Stats:
